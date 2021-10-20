@@ -88,6 +88,7 @@ public class EntityDocument {
                 ", Dateregistration:" + registrationDate +
                 ", Status:" + status +
                 '}';
+       
     }
 
 }
